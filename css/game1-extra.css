@@ -1,0 +1,38 @@
+
+.div1{
+    width: 300px;
+}
+
+.tablaj1-extra {
+    width: auto;
+    height: 120px;
+    background: #42f44b;
+}
+
+.letras{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.tabla1-2{
+    width: 400px;
+    height: auto;
+    background: #42f44b;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+.box-image-rayitas{
+    border-bottom: 4px solid blue;
+    width: 60px;
+    height: 60px;
+}
+
+.menu{
+    width: 120px;
+    height: 120px;
+    background: #42f44b;
+}
